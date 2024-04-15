@@ -14,8 +14,6 @@ public class ModItemGroups {
             new Identifier(DemoMod.MOD_ID, "vandy"), FabricItemGroup.builder().displayName(Text.translatable("itemgroup.vandy"))
                     .icon(() -> new ItemStack(ModItems.VANDY)).entries((displayContext, entries) -> {
 
-                        entries.add(ModItems.VANDY);
-
                     }).build());
 
     public static void registerModItemGroups() {
