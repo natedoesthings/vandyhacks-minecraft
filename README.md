@@ -6,14 +6,14 @@ INTELLIJ: https://www.jetbrains.com/idea/download/?section=windows#section=windo
 
 ### 2. Download appropriate JDK
 JDK: https://adoptium.net/temurin/releases/
-- [IMPORTANT] Version 21!!!
+- [IMPORTANT] Version 17 or 21!!!
 
 ### 3. Clone or download ZIP of the Repo
 Github: https://github.com/natedoesthings/vandyhacks-minecraft
 
 ### 4. Open up the project and build gradle
 - Should start automatically
-- Once build has finished ensure your jdk version is 21!
+- Look for a "build successful"
 
 ### 5. Run minecraft! 😄🐣
 
