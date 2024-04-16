@@ -15,7 +15,13 @@ Github: https://github.com/natedoesthings/vandyhacks-minecraft
 - Should start automatically
 - Look for a "build successful"
 
-### 5. Run minecraft! 😄🐣
+### 5. Run minecraft and Happy Coding! 😄🐣
+
+
+## Extra Resources
+- [Template] https://fabricmc.net/develop/template/
+- [Fabric Wiki] https://fabricmc.net/wiki/start
+- [JDK Info] https://www.geeksforgeeks.org/jdk-in-java/
 
 
 
