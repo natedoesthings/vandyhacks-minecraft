@@ -1,4 +1,4 @@
-package net.vandyhacks.demomodsolutions;
+package net.vandyhacks.solutions;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;

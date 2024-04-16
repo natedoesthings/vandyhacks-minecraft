@@ -1,4 +1,4 @@
-package net.vandyhacks.demomodsolutions;
+package net.vandyhacks.solutions;
 
 import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;

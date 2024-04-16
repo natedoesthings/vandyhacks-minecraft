@@ -1,4 +1,4 @@
-package net.vandyhacks.demomodsolutions;
+package net.vandyhacks.solutions;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

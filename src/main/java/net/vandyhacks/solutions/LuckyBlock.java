@@ -1,4 +1,4 @@
-package net.vandyhacks.demomodsolutions;
+package net.vandyhacks.solutions;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
@@ -35,7 +35,8 @@ public class LuckyBlock extends Block {
                 new ItemStack(Items.STICK, 23),
                 new ItemStack(Items.APPLE, 10),
                 new ItemStack(Items.BREAD, 1),
-                new ItemStack(Items.COOKED_BEEF, 4)
+                new ItemStack(Items.COOKED_BEEF, 4),
+                new ItemStack(Items.ENDER_EYE, 10)
         );
 
         ItemStack itemToDrop = items.get(Random.create().nextInt(items.size()));
