@@ -30,11 +30,11 @@ public class LuckyBlock extends Block {
 
     private void dropRandomItem(ServerWorld world, BlockPos pos) {
         List<ItemStack> items = Arrays.asList(
-                new ItemStack(Items.DIAMOND, 3),
-                new ItemStack(Items.GOLD_INGOT, 5),
-                new ItemStack(Items.IRON_INGOT, 8),
+                new ItemStack(Items.DIAMOND, 20),
+                new ItemStack(Items.EMERALD, 32),
+                new ItemStack(Items.STICK, 23),
                 new ItemStack(Items.APPLE, 10),
-                new ItemStack(Items.BREAD, 5),
+                new ItemStack(Items.BREAD, 1),
                 new ItemStack(Items.COOKED_BEEF, 4)
         );
 
