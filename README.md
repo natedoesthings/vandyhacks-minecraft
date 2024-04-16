@@ -22,6 +22,7 @@ Github: https://github.com/natedoesthings/vandyhacks-minecraft
 - [Template] https://fabricmc.net/develop/template/
 - [Fabric Wiki] https://fabricmc.net/wiki/start
 - [JDK Info] https://www.geeksforgeeks.org/jdk-in-java/
+- [Gradle Guide] https://docs.gradle.org/current/userguide/userguide.html
 
 
 
