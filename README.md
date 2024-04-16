@@ -15,15 +15,7 @@ Github: https://github.com/natedoesthings/vandyhacks-minecraft
 - Should start automatically
 - Once build has finished ensure your jdk version is 21!
 
-### 5. Check in the terminal your version of 
-- java -version 
-- [IMPORTANT] Version 17 or above!!!
-
-### 6. Download minecraft source code once build succesful
-- ./gradlew genSources
-- set up your sources in your project
-
-### 7. Run minecraft! 😄🐣
+### 5. Run minecraft! 😄🐣
 
 
 
