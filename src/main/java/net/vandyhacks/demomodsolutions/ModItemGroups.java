@@ -15,7 +15,7 @@ public class ModItemGroups {
 
                         //entries.add(ModItems.VANDY);
                         entries.add(ModBlocks.LUCKY_BLOCK);
-                        entries.add(ModItems.RANDWHICH);
+                        entries.add(ModItems.RANDWICH);
 
 
                     }).build());

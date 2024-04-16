@@ -22,7 +22,8 @@ public class ModItems {
     }
 
 
-    public static final Item RANDWHICH = registerItem("randwhich", new Item(new FabricItemSettings().food(ModFoodComponents.RANDWHICH)));
+    public static final Item RANDWICH = registerItem("randwich", new
+            Item(new FabricItemSettings().food(ModFoodComponents.RANDWICH)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(DemoMod.MOD_ID, name), item);
